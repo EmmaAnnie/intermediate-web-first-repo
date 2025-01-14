@@ -15,3 +15,8 @@ body{
 li.web-comms{
     color: black;
 }
+
+div.header{
+    font-size: medium;
+    background-color: white;
+}
